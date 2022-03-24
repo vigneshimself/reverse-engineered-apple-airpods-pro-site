@@ -2,7 +2,4 @@
 
 #### You can view the site at [vigneshimself.github.io/remade-apple-airpods-pro-site](https://vigneshimself.github.io/remade-apple-airpods-pro-site/)
 
-
-
-
-dsd
+Inspired by the [original Airpods Pro site](https://www.apple.com/airpods-pro/) and with help from Dev Ed <p align="left"> <a href="https://twitter.com/developedbyed" target="blank"><img src="https://img.shields.io/twitter/follow/developedbyed?logo=twitter&style=for-the-badge" alt="developedbyed" /></a> </p> used ScrollMagic javascript library to create a scroll triggered product animation
