@@ -7,6 +7,6 @@ Inspired by [Apple's Airpods Pro site](https://www.apple.com/airpods-pro/), used
 
 <hr>
 
-#### You can view the site at [vigneshimself.github.io/remade-apple-airpods-pro-site](https://vigneshimself.github.io/remade-apple-airpods-pro-site/)
+#### You can view the site at [vigneshimself.github.io/reverse-engineered-apple-airpods-pro-site](https://vigneshimself.github.io/reverse-engineered-apple-airpods-pro-site/)
 
 <hr/>
