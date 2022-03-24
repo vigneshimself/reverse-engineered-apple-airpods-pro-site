@@ -1,4 +1,4 @@
-# remade-apple-airpods-pro-site
+# reverse-engineered-apple-airpods-pro-site
 
 ![alt text](/airpods-pro.gif)
 
