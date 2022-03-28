@@ -10,7 +10,7 @@
 
 ![alt text](/airpods-pro.gif)
 
-![alt text](/hello-world.gif)
+![alt](/hello-world.gif)
 
 
 Inspired by [Apple's Airpods Pro site](https://www.apple.com/airpods-pro/), used <b>ScrollMagic</b> javascript library to create a scroll triggered product animation with help of [Simon Edwin](https://github.com/developedbyed) Check him out! 👇
